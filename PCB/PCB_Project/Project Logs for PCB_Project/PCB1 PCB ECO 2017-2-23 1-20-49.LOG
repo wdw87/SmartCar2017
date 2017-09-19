@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NRF_IRQ Pin=R1-1
+Added Pin To Net: NetName=PTA5 Pin=R1-1
+Added Pin To Net: NetName=PTA5 Pin=u0-A5
+Added Net: Name=PTA5
+Added Room: Name=Sheet1

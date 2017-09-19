@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=BATTERY7.2 Pin=T型头-1
+Removed Pin From Net: NetName=GND Pin=T型头-2
+Added Pin To Net: NetName=GND Pin=T型头-1
+Added Pin To Net: NetName=BATTERY7.2 Pin=T型头-2
+Added Room: Name=Sheet1

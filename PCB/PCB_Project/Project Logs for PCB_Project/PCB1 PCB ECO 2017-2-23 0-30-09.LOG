@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator= NewDesignator=Main_Switch
+Change Component Designator: OldDesignator= NewDesignator=总开关
+Change Component Designator: OldDesignator=C28 NewDesignator=Rled2
+Added Pin To Net: NetName=3.3V_BUS Pin=C22-2
+Added Pin To Net: NetName=3.3V_BUS Pin=U4-20
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetLED2_2
+Added Member To Class: ClassName=Sheet1 Member=Component Main_Switch 开关
+Added Member To Class: ClassName=Sheet1 Member=Component 总开关 *
+Added Room: Name=Sheet1

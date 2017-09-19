@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND_MCU_IN Pin=C22-1
+Removed Pin From Net: NetName=GND_MCU_IN Pin=U4-1
+Removed Pin From Net: NetName=GND_MCU_IN Pin=U4-19
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-19
+Added Room: Name=Sheet1

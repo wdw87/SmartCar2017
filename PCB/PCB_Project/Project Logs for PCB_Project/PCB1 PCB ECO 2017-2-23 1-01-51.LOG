@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator= NewDesignator=lm1117 3.3
+Change Component Designator: OldDesignator= NewDesignator=tps7333
+Added Member To Class: ClassName=Sheet1 Member=Component lm1117 3.3 AMS1117-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component tps7333 TPS7333
+Added Room: Name=Sheet1

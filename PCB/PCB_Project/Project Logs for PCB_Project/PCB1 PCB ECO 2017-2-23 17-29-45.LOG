@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=3.3V_BUS Pin=lm1117 3.3-2
+Removed Pin From Net: NetName=3.3V_BUS Pin=lm1117 3.3-2
+Change Component Designator: OldDesignator= NewDesignator=tps7333
+Added Component: Designator=C17(3216)
+Added Component: Designator=C18(0805-0C)
+Added Pin To Net: NetName=3.3V_MCU_IN Pin=C17-1
+Added Pin To Net: NetName=GND_MCU_IN Pin=C17-2
+Added Pin To Net: NetName=GND_MCU_IN Pin=C18-1
+Added Pin To Net: NetName=3.3V_MCU_IN Pin=C18-2
+Added Member To Class: ClassName=Sheet1 Member=Component C17 
+Added Member To Class: ClassName=Sheet1 Member=Component C18 Cap
+Added Member To Class: ClassName=Sheet1 Member=Component tps7333 TPS7333
+Added Room: Name=Sheet1

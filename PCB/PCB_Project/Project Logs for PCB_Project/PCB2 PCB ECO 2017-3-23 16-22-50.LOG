@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=PTE2 Pin=tft-2
+Removed Pin From Net: NetName=PTE0 Pin=tft-4
+Removed Pin From Net: NetName=DB7 Pin=tft-5
+Removed Pin From Net: NetName=DB6 Pin=tft-6
+Removed Pin From Net: NetName=DB5 Pin=tft-7
+Removed Pin From Net: NetName=DB4 Pin=tft-8
+Removed Pin From Net: NetName=DB3 Pin=tft-9
+Removed Pin From Net: NetName=DB2 Pin=tft-10
+Removed Pin From Net: NetName=DB1 Pin=tft-11
+Removed Pin From Net: NetName=DB0 Pin=tft-12
+Removed Pin From Net: NetName=PTC7 Pin=tft-13
+Removed Pin From Net: NetName=PTC6 Pin=tft-14
+Removed Pin From Net: NetName=PTC5 Pin=tft-15
+Removed Pin From Net: NetName=5V_BUS Pin=tft-17
+Removed Pin From Net: NetName=GND_MCU_IN Pin=tft-18
+Change Component DesignItemId : Designator=tft Old DesignItemId=Header 18 New DesignItemId=Header 16
+Change Component Footprint: Designator=tft Old Footprint=HDR1X18 New Footprint=HDR1X16
+Change Component Comment : Designator=tft Old Comment=Header 18 New Comment=HEAD1*16
+Change Component Designator: OldDesignator=C31 NewDesignator=Rled1
+Added Pin To Net: NetName=PTE2 Pin=tft-1
+Added Pin To Net: NetName=PTE0 Pin=tft-2
+Added Pin To Net: NetName=DB7 Pin=tft-3
+Added Pin To Net: NetName=DB6 Pin=tft-4
+Added Pin To Net: NetName=DB5 Pin=tft-5
+Added Pin To Net: NetName=DB4 Pin=tft-6
+Added Pin To Net: NetName=DB3 Pin=tft-7
+Added Pin To Net: NetName=DB2 Pin=tft-8
+Added Pin To Net: NetName=DB1 Pin=tft-9
+Added Pin To Net: NetName=DB0 Pin=tft-10
+Added Pin To Net: NetName=PTC7 Pin=tft-11
+Added Pin To Net: NetName=PTC6 Pin=tft-12
+Added Pin To Net: NetName=PTC5 Pin=tft-13
+Added Pin To Net: NetName=5V_BUS Pin=tft-15
+Added Pin To Net: NetName=GND_MCU_IN Pin=tft-16
+Change Net Name : Old Net Name=NetC31_1 New Net Name=NetLED1_2
+Added Room: Name=Sheet1

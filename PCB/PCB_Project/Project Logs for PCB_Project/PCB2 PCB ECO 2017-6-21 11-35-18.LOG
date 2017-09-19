@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PTB20 Pin=S7-1
+Removed Pin From Net: NetName=PTB21 Pin=S7-2
+Removed Pin From Net: NetName=PTB22 Pin=S7-3
+Removed Pin From Net: NetName=PTB23 Pin=S7-4
+Added Pin To Net: NetName=PTB23 Pin=S7-1
+Added Pin To Net: NetName=PTB22 Pin=S7-2
+Added Pin To Net: NetName=PTB21 Pin=S7-3
+Added Pin To Net: NetName=PTB20 Pin=S7-4
+Added Room: Name=Sheet1

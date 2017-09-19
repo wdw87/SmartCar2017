@@ -1,0 +1,821 @@
+Protel Design System Design Rule Check
+PCB File : D:\ESAT\nxp\GTMDLYZ\PCB_Project\PCB1.PcbDoc
+Date     : 2017/2/23
+Time     : 18:37:38
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 3.3V_BUS Between Pad lm1117 3.3-2 (3235,4632.047mil) And Track on layer Top Layer (3364.055,4517.008mil)
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=4mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=30mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=300mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=3mil) (All),(All)
+   Violation between Via (3125mil,3905mil) Top Layer to Bottom Layer and 
+                     Pad C22-2(3130mil,3865mil)  Top Layer
+   Violation between Pad Q9-2(4910mil,3940mil)  Multi-Layer and 
+                     Pad Q9-3(4960mil,3940mil)  Multi-Layer
+   Violation between Pad Q9-1(4860mil,3940mil)  Multi-Layer and 
+                     Pad Q9-2(4910mil,3940mil)  Multi-Layer
+   Violation between Via (2830mil,4270mil) Top Layer to Bottom Layer and 
+                     Pad C7-1(2852.008mil,4220mil)  Bottom Layer
+   Violation between Via (2865mil,4270mil) Top Layer to Bottom Layer and 
+                     Pad C7-1(2852.008mil,4220mil)  Bottom Layer
+   Violation between Via (1725mil,3510mil) Top Layer to Bottom Layer and 
+                     Pad R26-2(1680mil,3540mil)  Bottom Layer
+   Violation between Via (1725mil,3510mil) Top Layer to Bottom Layer and 
+                     Pad R24-1(1770mil,3540mil)  Bottom Layer
+   Violation between Via (1975mil,3330mil) Top Layer to Bottom Layer and 
+                     Pad C16-2(2027.008mil,3300mil)  Bottom Layer
+   Violation between Via (2595mil,3425mil) Top Layer to Bottom Layer and 
+                     Pad R17-1(2590mil,3465mil)  Bottom Layer
+   Violation between Via (2245mil,3330mil) Top Layer to Bottom Layer and 
+                     Pad C15-2(2250mil,3375mil)  Bottom Layer
+   Violation between Via (2345mil,3330mil) Top Layer to Bottom Layer and 
+                     Pad C15-1(2335mil,3375mil)  Bottom Layer
+   Violation between Via (2595mil,3425mil) Top Layer to Bottom Layer and 
+                     Pad C11-2(2610mil,3380mil)  Bottom Layer
+Rule Violations :12
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
+   Violation between Text "S2" (3770.499mil,3618.043mil)  Top Overlay and 
+                     Arc (3870.079mil,3688.661mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Arc (2928.594mil,4234.5mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Arc (2976.406mil,4234.594mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Arc (3019.594mil,4496.301mil)  Top Overlay
+   Violation between Text "C9" (3106.5mil,4602.5mil)  Top Overlay and 
+                     Arc (3019.594mil,4608.594mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Arc (3019.594mil,4608.594mil)  Top Overlay
+   Violation between Text "LM317" (3190.5mil,3630.5mil)  Top Overlay and 
+                     Arc (3149.5mil,3851.406mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Arc (2183.699mil,3554.594mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Arc (2183.594mil,3515.5mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Arc (2071.406mil,3515.5mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Arc (2071.406mil,3554.594mil)  Top Overlay
+   Violation between Text "R21" (1907.5mil,3648.5mil)  Top Overlay and 
+                     Arc (1829.594mil,3778.594mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Arc (1829.594mil,3778.594mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Arc (1790.5mil,3778.594mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Arc (1790.5mil,3666.406mil)  Top Overlay
+   Violation between Text "R21" (1907.5mil,3648.5mil)  Top Overlay and 
+                     Arc (1829.594mil,3666.301mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Arc (1829.594mil,3666.301mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Arc (2753.594mil,3440.406mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Arc (2641.406mil,3479.5mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Arc (2641.301mil,3440.406mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Arc (2753.699mil,3564.594mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Arc (2753.594mil,3525.5mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Arc (2641.406mil,3525.5mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Arc (2641.406mil,3564.594mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Arc (2620mil,3420.748mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Arc (2359.594mil,3778.594mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Arc (2320.5mil,3778.594mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Arc (2320.5mil,3666.406mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Arc (2359.594mil,3666.301mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Arc (2549.594mil,3773.594mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Arc (2510.5mil,3773.594mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Arc (2510.5mil,3661.406mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Arc (2549.594mil,3661.301mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Arc (2235.406mil,3666.406mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Arc (2274.5mil,3666.406mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Arc (2274.5mil,3778.594mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Arc (2235.406mil,3778.699mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Arc (3043.699mil,4384.594mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Arc (3043.594mil,4345.5mil)  Top Overlay
+   Violation between Text "R7" (2803.5mil,4287.5mil)  Top Overlay and 
+                     Arc (2931.406mil,4345.5mil)  Top Overlay
+   Violation between Text "R6" (4907.5mil,4553.5mil)  Top Overlay and 
+                     Arc (4814.594mil,4566.301mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Arc (2050mil,3420.748mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Arc (1685.406mil,3666.406mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Arc (1724.5mil,3666.406mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Arc (1724.5mil,3778.594mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Arc (1685.406mil,3778.699mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Arc (1999.594mil,3773.594mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Arc (1960.5mil,3773.594mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Arc (1960.5mil,3661.406mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Arc (1999.594mil,3661.301mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Arc (2183.594mil,3430.406mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Arc (2071.406mil,3469.5mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Arc (2071.301mil,3430.406mil)  Top Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Arc (3545.406mil,3811.301mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Arc (3584.5mil,3811.406mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Arc (3584.5mil,3923.594mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Arc (3545.406mil,3923.594mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Arc (3684.594mil,3923.594mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Arc (3645.5mil,3923.49mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Arc (3645.5mil,3811.301mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Arc (3684.594mil,3811.301mil)  Bottom Overlay
+   Violation between Text "R1" (4872.5mil,3543.5mil)  Bottom Overlay and 
+                     Arc (4899.5mil,3556.406mil)  Bottom Overlay
+   Violation between Text "R1" (4872.5mil,3543.5mil)  Bottom Overlay and 
+                     Arc (4860.406mil,3556.301mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Arc (2000.406mil,3558.594mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Arc (2039.5mil,3558.594mil)  Bottom Overlay
+   Violation between Text "C19" (2151.5mil,3452.5mil)  Bottom Overlay and 
+                     Arc (2039.5mil,3446.406mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Arc (2039.5mil,3446.406mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Arc (2000.406mil,3446.301mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Arc (1660.406mil,3553.594mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Arc (1699.5mil,3553.594mil)  Bottom Overlay
+   Violation between Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay and 
+                     Arc (1699.5mil,3441.406mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Arc (1699.5mil,3441.406mil)  Bottom Overlay
+   Violation between Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay and 
+                     Arc (1660.406mil,3441.301mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Arc (1660.406mil,3441.301mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Arc (1666.406mil,3389.5mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Arc (1789.594mil,3441.406mil)  Bottom Overlay
+   Violation between Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay and 
+                     Arc (1750.5mil,3441.406mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Arc (1750.5mil,3441.406mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Arc (1750.5mil,3553.594mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Arc (1789.594mil,3553.699mil)  Bottom Overlay
+   Violation between Text "D4" (2091.5mil,3405.5mil)  Bottom Overlay and 
+                     Arc (2138.699mil,3360.406mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Arc (2230.406mil,3563.594mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Arc (2269.5mil,3563.594mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Arc (2269.5mil,3451.406mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Arc (2269.5mil,3451.406mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Arc (2230.406mil,3451.301mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Arc (2230.406mil,3451.301mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2359.594mil,3451.406mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2320.5mil,3451.406mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Arc (2320.5mil,3451.406mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2320.5mil,3563.594mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2359.594mil,3563.699mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2570.406mil,3563.594mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2609.5mil,3563.594mil)  Bottom Overlay
+   Violation between Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay and 
+                     Arc (2609.5mil,3451.406mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2609.5mil,3451.406mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Arc (2570.406mil,3451.301mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Arc (2236.406mil,3394.5mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Arc (2236.406mil,3394.5mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Arc (2236.406mil,3355.406mil)  Bottom Overlay
+   Violation between Text "D2" (2681.5mil,3420.5mil)  Bottom Overlay and 
+                     Arc (2708.699mil,3360.406mil)  Bottom Overlay
+   Violation between Text "D2" (2681.5mil,3420.5mil)  Bottom Overlay and 
+                     Arc (2708.594mil,3399.5mil)  Bottom Overlay
+   Violation between Text "tft" (5513.5mil,2886.5mil)  Top Overlay and 
+                     Track (5300.944mil,2819.056mil)(6425mil,2819.056mil)  Top Overlay
+   Violation between Text "S2" (3770.499mil,3618.043mil)  Top Overlay and 
+                     Track (3795mil,3625mil)(3795mil,4035mil)  Top Overlay
+   Violation between Text "C22" (3202.5mil,3976.5mil)  Top Overlay and 
+                     Track (3225mil,3625mil)(3225mil,4035mil)  Top Overlay
+   Violation between Text "S6" (3264.334mil,3618.043mil)  Top Overlay and 
+                     Track (3225mil,3625mil)(3795mil,3625mil)  Top Overlay
+   Violation between Text "S5" (3433.056mil,3618.043mil)  Top Overlay and 
+                     Track (3225mil,3625mil)(3795mil,3625mil)  Top Overlay
+   Violation between Text "S1" (3601.778mil,3618.043mil)  Top Overlay and 
+                     Track (3225mil,3625mil)(3795mil,3625mil)  Top Overlay
+   Violation between Text "S2" (3770.499mil,3618.043mil)  Top Overlay and 
+                     Track (3225mil,3625mil)(3795mil,3625mil)  Top Overlay
+   Violation between Text "S7" (4004.5mil,4543.5mil)  Top Overlay and 
+                     Track (4020mil,4470mil)(4035mil,4470mil)  Top Overlay
+   Violation between Text "S7" (4004.5mil,4543.5mil)  Top Overlay and 
+                     Track (4020mil,3170mil)(4020mil,4470mil)  Top Overlay
+   Violation between Text "C2" (5283.5mil,4506.5mil)  Top Overlay and 
+                     Track (4035mil,4470mil)(5320mil,4470mil)  Top Overlay
+   Violation between Text "S7" (4004.5mil,4543.5mil)  Top Overlay and 
+                     Track (4035mil,4470mil)(5320mil,4470mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Track (2815.885mil,4253mil)(2928.088mil,4253mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Track (2947mil,4196.406mil)(2947mil,4233.5mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Track (2976.887mil,4253mil)(3087.699mil,4253mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Track (2958mil,4196.5mil)(2958mil,4233.594mil)  Top Overlay
+   Violation between Text "LED1" (2672.5mil,4717.5mil)  Top Overlay and 
+                     Track (2755.006mil,4337.994mil)(2755.276mil,4710mil)  Top Overlay
+   Violation between Text "LED2" (2672.5mil,4477.5mil)  Top Overlay and 
+                     Track (2755.006mil,4337.994mil)(2755.276mil,4710mil)  Top Overlay
+   Violation between Text "R7" (2803.5mil,4287.5mil)  Top Overlay and 
+                     Track (2792.646mil,4300.354mil)(2906.102mil,4300.354mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Track (2792.646mil,4300.354mil)(2906.102mil,4300.354mil)  Top Overlay
+   Violation between Text "R7" (2803.5mil,4287.5mil)  Top Overlay and 
+                     Track (2755.006mil,4337.994mil)(2792.646mil,4300.354mil)  Top Overlay
+   Violation between Text "C12" (3056.5mil,4292.5mil)  Top Overlay and 
+                     Track (2906.102mil,4300.354mil)(2944.016mil,4338.268mil)  Top Overlay
+   Violation between Text "LED1" (2672.5mil,4717.5mil)  Top Overlay and 
+                     Track (2755.984mil,4710mil)(2944.016mil,4710mil)  Top Overlay
+   Violation between Text "LED2" (2672.5mil,4477.5mil)  Top Overlay and 
+                     Track (2665mil,4551.378mil)(2735mil,4551.378mil)  Top Overlay
+   Violation between Text "LED2" (2672.5mil,4477.5mil)  Top Overlay and 
+                     Track (2735mil,4551.378mil)(2735mil,4685.236mil)  Top Overlay
+   Violation between Text "T型头" (2224.5mil,4692.5mil)  Top Overlay and 
+                     Track (2205mil,4700mil)(2409.724mil,4700mil)  Top Overlay
+   Violation between Text "Q1" (2215.5mil,4397.5mil)  Top Overlay and 
+                     Track (2205mil,4375mil)(2205mil,4697.835mil)  Top Overlay
+   Violation between Text "T型头" (2224.5mil,4692.5mil)  Top Overlay and 
+                     Track (2205mil,4375mil)(2205mil,4697.835mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Track (2981.5mil,4627mil)(3018.594mil,4627mil)  Top Overlay
+   Violation between Text "C9" (3106.5mil,4602.5mil)  Top Overlay and 
+                     Track (3038mil,4497.301mil)(3038mil,4608.114mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Track (3038mil,4497.301mil)(3038mil,4608.114mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Track (2981.5mil,4478mil)(3018.5mil,4478mil)  Top Overlay
+   Violation between Text "C9" (3106.5mil,4602.5mil)  Top Overlay and 
+                     Track (3103.11mil,4446.024mil)(3103.11mil,4573.976mil)  Top Overlay
+   Violation between Text "C23" (3463.5mil,4441.5mil)  Top Overlay and 
+                     Track (3366.89mil,4446.024mil)(3366.89mil,4573.976mil)  Top Overlay
+   Violation between Text "C9" (3106.5mil,4602.5mil)  Top Overlay and 
+                     Track (3103.11mil,4573.976mil)(3366.89mil,4573.976mil)  Top Overlay
+   Violation between Text "C23" (3463.5mil,4441.5mil)  Top Overlay and 
+                     Track (3103.11mil,4446.024mil)(3366.89mil,4446.024mil)  Top Overlay
+   Violation between Text "LM317" (3190.5mil,3630.5mil)  Top Overlay and 
+                     Track (3111.406mil,3833mil)(3148.5mil,3833mil)  Top Overlay
+   Violation between Text "LM317" (3190.5mil,3630.5mil)  Top Overlay and 
+                     Track (3168mil,3851.912mil)(3168mil,3964.115mil)  Top Overlay
+   Violation between Text "R8" (3101.5mil,4142.5mil)  Top Overlay and 
+                     Track (2800.889mil,4082mil)(3065mil,4082mil)  Top Overlay
+   Violation between Text "R32" (2838.933mil,3867.5mil)  Top Overlay and 
+                     Track (2800.889mil,3904mil)(3065mil,3904mil)  Top Overlay
+   Violation between Text "R8" (3101.5mil,4142.5mil)  Top Overlay and 
+                     Track (3065mil,4019.256mil)(3065mil,4082mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Track (2053mil,3516.5mil)(2053mil,3553.594mil)  Top Overlay
+   Violation between Text "U2-2" (2105.5mil,3585.5mil)  Top Overlay and 
+                     Track (2071.912mil,3497mil)(2184.115mil,3497mil)  Top Overlay
+   Violation between Text "U2-2" (2105.5mil,3585.5mil)  Top Overlay and 
+                     Track (2071.887mil,3573mil)(2182.699mil,3573mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Track (2071.887mil,3573mil)(2182.699mil,3573mil)  Top Overlay
+   Violation between Text "R28" (2058.5mil,3522.5mil)  Top Overlay and 
+                     Track (2202mil,3516.5mil)(2202mil,3553.5mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Track (1791.5mil,3648mil)(1828.5mil,3648mil)  Top Overlay
+   Violation between Text "R21" (1907.5mil,3648.5mil)  Top Overlay and 
+                     Track (1848mil,3667.301mil)(1848mil,3778.113mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Track (1848mil,3667.301mil)(1848mil,3778.113mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Track (1772mil,3665.885mil)(1772mil,3778.088mil)  Top Overlay
+   Violation between Text "R20" (1777.5mil,3791.5mil)  Top Overlay and 
+                     Track (1791.5mil,3797mil)(1828.594mil,3797mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Track (2623mil,3441.5mil)(2623mil,3478.5mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Track (2642.301mil,3422mil)(2753.113mil,3422mil)  Top Overlay
+   Violation between Text "U2-1" (2675.5mil,3585.5mil)  Top Overlay and 
+                     Track (2642.301mil,3422mil)(2753.113mil,3422mil)  Top Overlay
+   Violation between Text "U2-1" (2675.5mil,3585.5mil)  Top Overlay and 
+                     Track (2640.885mil,3498mil)(2753.088mil,3498mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Track (2772mil,3441.406mil)(2772mil,3478.5mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Track (2623mil,3526.5mil)(2623mil,3563.594mil)  Top Overlay
+   Violation between Text "U2-1" (2675.5mil,3585.5mil)  Top Overlay and 
+                     Track (2641.912mil,3507mil)(2754.115mil,3507mil)  Top Overlay
+   Violation between Text "U2-1" (2675.5mil,3585.5mil)  Top Overlay and 
+                     Track (2641.887mil,3583mil)(2752.699mil,3583mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Track (2641.887mil,3583mil)(2752.699mil,3583mil)  Top Overlay
+   Violation between Text "R18" (2628.5mil,3532.5mil)  Top Overlay and 
+                     Track (2772mil,3526.5mil)(2772mil,3563.5mil)  Top Overlay
+   Violation between Text "C14" (2766.5mil,3472.5mil)  Top Overlay and 
+                     Track (2620mil,3445.748mil)(2620mil,3495.748mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Track (2321.5mil,3648mil)(2358.5mil,3648mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Track (2378mil,3667.301mil)(2378mil,3778.113mil)  Top Overlay
+   Violation between Text "R10" (2327.5mil,3791.5mil)  Top Overlay and 
+                     Track (2321.5mil,3797mil)(2358.594mil,3797mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Track (2511.5mil,3643mil)(2548.5mil,3643mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Track (2492mil,3660.885mil)(2492mil,3773.088mil)  Top Overlay
+   Violation between Text "R13" (2542.5mil,3648.5mil)  Top Overlay and 
+                     Track (2511.5mil,3792mil)(2548.594mil,3792mil)  Top Overlay
+   Violation between Text "P3" (4293.5mil,3088.5mil)  Top Overlay and 
+                     Track (4345mil,2995mil)(4345mil,3095mil)  Top Overlay
+   Violation between Text "P3" (4293.5mil,3088.5mil)  Top Overlay and 
+                     Track (4345mil,3095mil)(4745mil,3095mil)  Top Overlay
+   Violation between Text "P4" (4776.5mil,3001.5mil)  Top Overlay and 
+                     Track (4345mil,3095mil)(4745mil,3095mil)  Top Overlay
+   Violation between Text "P3" (4293.5mil,3088.5mil)  Top Overlay and 
+                     Track (4345mil,2995mil)(4745mil,2995mil)  Top Overlay
+   Violation between Text "P4" (4776.5mil,3001.5mil)  Top Overlay and 
+                     Track (4345mil,2995mil)(4745mil,2995mil)  Top Overlay
+   Violation between Text "P4" (4776.5mil,3001.5mil)  Top Overlay and 
+                     Track (4745mil,2995mil)(4745mil,3095mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Track (2236.5mil,3797mil)(2273.5mil,3797mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Track (2217mil,3666.887mil)(2217mil,3777.699mil)  Top Overlay
+   Violation between Text "R12" (2267.5mil,3653.5mil)  Top Overlay and 
+                     Track (2236.406mil,3648mil)(2273.5mil,3648mil)  Top Overlay
+   Violation between Text "R7" (2803.5mil,4287.5mil)  Top Overlay and 
+                     Track (2913mil,4346.5mil)(2913mil,4383.594mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Track (2931.887mil,4403mil)(3042.699mil,4403mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Track (3062mil,4346.5mil)(3062mil,4383.5mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Track (2981.912mil,4637mil)(3094.115mil,4637mil)  Top Overlay
+   Violation between Text "P5" (4778.5mil,3088.5mil)  Top Overlay and 
+                     Track (4810mil,2995mil)(5210mil,2995mil)  Top Overlay
+   Violation between Text "P5" (4778.5mil,3088.5mil)  Top Overlay and 
+                     Track (4810mil,3095mil)(5210mil,3095mil)  Top Overlay
+   Violation between Text "P5" (4778.5mil,3088.5mil)  Top Overlay and 
+                     Track (4810mil,2995mil)(4810mil,3095mil)  Top Overlay
+   Violation between Text "C3" (5127.5mil,4686.5mil)  Top Overlay and 
+                     Track (5200mil,4675mil)(5200mil,4750mil)  Top Overlay
+   Violation between Text "C3" (5127.5mil,4686.5mil)  Top Overlay and 
+                     Track (5200mil,4555mil)(5200mil,4615mil)  Top Overlay
+   Violation between Text "R6" (4907.5mil,4553.5mil)  Top Overlay and 
+                     Track (4833mil,4567.301mil)(4833mil,4678.114mil)  Top Overlay
+   Violation between Text "u0" (5354.5mil,4465.5mil)  Top Overlay and 
+                     Track (5420mil,2920mil)(5420mil,4720mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Track (2050mil,3445.748mil)(2050mil,3495.748mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Track (2050mil,3345.748mil)(2050mil,3395.748mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Track (1686.5mil,3797mil)(1723.5mil,3797mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Track (1667mil,3666.887mil)(1667mil,3777.699mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Track (1743mil,3666.912mil)(1743mil,3779.115mil)  Top Overlay
+   Violation between Text "R22" (1737.5mil,3653.5mil)  Top Overlay and 
+                     Track (1686.406mil,3648mil)(1723.5mil,3648mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Track (1961.5mil,3643mil)(1998.5mil,3643mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Track (1942mil,3660.885mil)(1942mil,3773.088mil)  Top Overlay
+   Violation between Text "R23" (1987.5mil,3648.5mil)  Top Overlay and 
+                     Track (1961.5mil,3792mil)(1998.594mil,3792mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Track (2053mil,3431.5mil)(2053mil,3468.5mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Track (2072.301mil,3412mil)(2183.113mil,3412mil)  Top Overlay
+   Violation between Text "U2-2" (2105.5mil,3585.5mil)  Top Overlay and 
+                     Track (2072.301mil,3412mil)(2183.113mil,3412mil)  Top Overlay
+   Violation between Text "U2-2" (2105.5mil,3585.5mil)  Top Overlay and 
+                     Track (2070.885mil,3488mil)(2183.088mil,3488mil)  Top Overlay
+   Violation between Text "C20" (2196.5mil,3462.5mil)  Top Overlay and 
+                     Track (2202mil,3431.406mil)(2202mil,3468.5mil)  Top Overlay
+   Violation between Text "Q6" (1940.5mil,4397.5mil)  Top Overlay and 
+                     Track (1940mil,4387.441mil)(2180mil,4387.441mil)  Top Overlay
+   Violation between Text "Q6" (1940.5mil,4397.5mil)  Top Overlay and 
+                     Track (1940mil,4387.441mil)(1940mil,4422.441mil)  Top Overlay
+   Violation between Text "Q5" (1665.5mil,4397.5mil)  Top Overlay and 
+                     Track (1660mil,4422.441mil)(1940mil,4422.441mil)  Top Overlay
+   Violation between Text "Q6" (1940.5mil,4397.5mil)  Top Overlay and 
+                     Track (1660mil,4422.441mil)(1940mil,4422.441mil)  Top Overlay
+   Violation between Text "Q5" (1665.5mil,4397.5mil)  Top Overlay and 
+                     Track (1660mil,4422.441mil)(1660mil,4662.441mil)  Top Overlay
+   Violation between Text "S4" (2926.891mil,3618.043mil)  Top Overlay and 
+                     Track (2808.346mil,3627.559mil)(2922.52mil,3627.559mil)  Top Overlay
+   Violation between Text "S4" (2926.891mil,3618.043mil)  Top Overlay and 
+                     Track (2922.52mil,3572.441mil)(2922.52mil,3627.559mil)  Top Overlay
+   Violation between Text "R29" (2838.933mil,3672.5mil)  Top Overlay and 
+                     Track (2808.346mil,3692.559mil)(2922.52mil,3692.559mil)  Top Overlay
+   Violation between Text "S4" (2926.891mil,3618.043mil)  Top Overlay and 
+                     Track (2808.346mil,3637.441mil)(2922.52mil,3637.441mil)  Top Overlay
+   Violation between Text "S4" (2926.891mil,3618.043mil)  Top Overlay and 
+                     Track (2922.52mil,3637.441mil)(2922.52mil,3692.559mil)  Top Overlay
+   Violation between Text "R29" (2838.933mil,3672.5mil)  Top Overlay and 
+                     Track (2922.52mil,3637.441mil)(2922.52mil,3692.559mil)  Top Overlay
+   Violation between Text "R30" (2838.933mil,3737.5mil)  Top Overlay and 
+                     Track (2808.346mil,3757.559mil)(2922.52mil,3757.559mil)  Top Overlay
+   Violation between Text "R29" (2838.933mil,3672.5mil)  Top Overlay and 
+                     Track (2808.346mil,3702.441mil)(2922.52mil,3702.441mil)  Top Overlay
+   Violation between Text "R30" (2838.933mil,3737.5mil)  Top Overlay and 
+                     Track (2922.52mil,3702.441mil)(2922.52mil,3757.559mil)  Top Overlay
+   Violation between Text "R29" (2838.933mil,3672.5mil)  Top Overlay and 
+                     Track (2922.52mil,3702.441mil)(2922.52mil,3757.559mil)  Top Overlay
+   Violation between Text "R31" (2838.933mil,3802.5mil)  Top Overlay and 
+                     Track (2808.346mil,3822.559mil)(2922.52mil,3822.559mil)  Top Overlay
+   Violation between Text "R30" (2838.933mil,3737.5mil)  Top Overlay and 
+                     Track (2808.346mil,3767.441mil)(2922.52mil,3767.441mil)  Top Overlay
+   Violation between Text "R31" (2838.933mil,3802.5mil)  Top Overlay and 
+                     Track (2922.52mil,3767.441mil)(2922.52mil,3822.559mil)  Top Overlay
+   Violation between Text "R30" (2838.933mil,3737.5mil)  Top Overlay and 
+                     Track (2922.52mil,3767.441mil)(2922.52mil,3822.559mil)  Top Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3546.406mil,3942mil)(3583.5mil,3942mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3603mil,3810.885mil)(3603mil,3923.088mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3527mil,3812.301mil)(3527mil,3923.113mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3546.5mil,3793mil)(3583.5mil,3793mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3713.819mil,3929.961mil)(3816.181mil,3929.961mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3711.85mil,3799.252mil)(3711.85mil,4011.85mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3711.85mil,3799.252mil)(3721.496mil,3799.252mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3646.5mil,3792.895mil)(3683.594mil,3792.895mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3627mil,3811.807mil)(3627mil,3924.011mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3703mil,3811.782mil)(3703mil,3922.594mil)  Bottom Overlay
+   Violation between Text "R42" (3637.5mil,3798.5mil)  Bottom Overlay and 
+                     Track (3646.5mil,3941.895mil)(3683.5mil,3941.895mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3512.52mil,3809.252mil)(3523.15mil,3809.252mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3523.15mil,3809.252mil)(3523.15mil,4021.653mil)  Bottom Overlay
+   Violation between Text "R41" (3592.5mil,3936.395mil)  Bottom Overlay and 
+                     Track (3418.819mil,3939.961mil)(3521.181mil,3939.961mil)  Bottom Overlay
+   Violation between Text "3" (5020mil,4230mil)  Bottom Overlay and 
+                     Track (5010mil,4060mil)(5010mil,4260mil)  Bottom Overlay
+   Violation between Text "4" (5020mil,4130mil)  Bottom Overlay and 
+                     Track (5010mil,4060mil)(5010mil,4260mil)  Bottom Overlay
+   Violation between Text "1" (4780mil,4230mil)  Bottom Overlay and 
+                     Track (4810mil,4060mil)(4810mil,4260mil)  Bottom Overlay
+   Violation between Text "P2" (4811.5mil,4066.5mil)  Bottom Overlay and 
+                     Track (4810mil,4060mil)(4810mil,4260mil)  Bottom Overlay
+   Violation between Text "P2" (4811.5mil,4066.5mil)  Bottom Overlay and 
+                     Track (4810mil,4060mil)(5010mil,4060mil)  Bottom Overlay
+   Violation between Text "3" (4740mil,4230mil)  Bottom Overlay and 
+                     Track (4730mil,4060mil)(4730mil,4260mil)  Bottom Overlay
+   Violation between Text "4" (4740mil,4130mil)  Bottom Overlay and 
+                     Track (4730mil,4060mil)(4730mil,4260mil)  Bottom Overlay
+   Violation between Text "1" (4500mil,4230mil)  Bottom Overlay and 
+                     Track (4530mil,4060mil)(4530mil,4260mil)  Bottom Overlay
+   Violation between Text "R1" (4872.5mil,3543.5mil)  Bottom Overlay and 
+                     Track (4861.5mil,3538mil)(4898.5mil,3538mil)  Bottom Overlay
+   Violation between Text "R1" (4872.5mil,3543.5mil)  Bottom Overlay and 
+                     Track (4918mil,3555.885mil)(4918mil,3668.088mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4250mil,4655mil)(4250mil,4730mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4250mil,4535mil)(4250mil,4595mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4175mil,4520mil)(4235mil,4520mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4235mil,4520mil)(4250mil,4535mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4245mil,4655mil)(4245mil,4730mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4245mil,4535mil)(4245mil,4595mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4260mil,4520mil)(4320mil,4520mil)  Bottom Overlay
+   Violation between Text "C25" (4287.5mil,4681.5mil)  Bottom Overlay and 
+                     Track (4245mil,4535mil)(4260mil,4520mil)  Bottom Overlay
+   Violation between Text "U1" (3058.5mil,3759.5mil)  Bottom Overlay and 
+                     Track (3039mil,3815mil)(3256mil,3815mil)  Bottom Overlay
+   Violation between Text "C39" (3403.5mil,4028.5mil)  Bottom Overlay and 
+                     Track (3256mil,3815mil)(3256mil,4015mil)  Bottom Overlay
+   Violation between Text "C39" (3403.5mil,4028.5mil)  Bottom Overlay and 
+                     Track (3039mil,4015mil)(3256mil,4015mil)  Bottom Overlay
+   Violation between Text "R4" (3111.5mil,4187.5mil)  Bottom Overlay and 
+                     Track (2945mil,4175mil)(3020mil,4175mil)  Bottom Overlay
+   Violation between Text "R4" (3111.5mil,4187.5mil)  Bottom Overlay and 
+                     Track (3020mil,4175mil)(3020mil,4265mil)  Bottom Overlay
+   Violation between Text "L1" (3005.5mil,4029.5mil)  Bottom Overlay and 
+                     Track (2824mil,3954mil)(3024mil,3954mil)  Bottom Overlay
+   Violation between Text "Q8" (1931.5mil,4125.5mil)  Bottom Overlay and 
+                     Track (1936.5mil,3822.2mil)(1936.5mil,4116.614mil)  Bottom Overlay
+   Violation between Text "Q8" (1931.5mil,4125.5mil)  Bottom Overlay and 
+                     Track (1936.5mil,4116.614mil)(2201.89mil,4116.614mil)  Bottom Overlay
+   Violation between Text "Q8" (1931.5mil,4125.5mil)  Bottom Overlay and 
+                     Track (1938.11mil,4116.614mil)(2201.89mil,4116.614mil)  Bottom Overlay
+   Violation between Text "Q8" (1931.5mil,4125.5mil)  Bottom Overlay and 
+                     Track (1661.5mil,4116.614mil)(1926.89mil,4116.614mil)  Bottom Overlay
+   Violation between Text "Q8" (1931.5mil,4125.5mil)  Bottom Overlay and 
+                     Track (1926.89mil,3816.69mil)(1926.89mil,4116.614mil)  Bottom Overlay
+   Violation between Text "Q8" (1931.5mil,4125.5mil)  Bottom Overlay and 
+                     Track (1663.11mil,4116.614mil)(1926.89mil,4116.614mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Track (2001.5mil,3428mil)(2038.5mil,3428mil)  Bottom Overlay
+   Violation between Text "C19" (2151.5mil,3452.5mil)  Bottom Overlay and 
+                     Track (2058mil,3445.885mil)(2058mil,3558.088mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Track (2058mil,3445.885mil)(2058mil,3558.088mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Track (2001.406mil,3577mil)(2038.5mil,3577mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Track (1661.5mil,3423mil)(1698.5mil,3423mil)  Bottom Overlay
+   Violation between Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay and 
+                     Track (1642mil,3442.301mil)(1642mil,3553.113mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Track (1642mil,3442.301mil)(1642mil,3553.113mil)  Bottom Overlay
+   Violation between Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay and 
+                     Track (1718mil,3440.885mil)(1718mil,3553.088mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Track (1661.406mil,3572mil)(1698.5mil,3572mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Track (1666.911mil,3408mil)(1779.115mil,3408mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Track (1751.5mil,3572mil)(1788.5mil,3572mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Track (1808mil,3441.887mil)(1808mil,3552.699mil)  Bottom Overlay
+   Violation between Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay and 
+                     Track (1732mil,3441.912mil)(1732mil,3554.115mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Track (1751.5mil,3423mil)(1788.594mil,3423mil)  Bottom Overlay
+   Violation between Text "C19" (2151.5mil,3452.5mil)  Bottom Overlay and 
+                     Track (2086.85mil,3463.15mil)(2097.677mil,3463.15mil)  Bottom Overlay
+   Violation between Text "R27" (2092.5mil,3433.5mil)  Bottom Overlay and 
+                     Track (2086.85mil,3463.15mil)(2097.677mil,3463.15mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Track (2193.15mil,3463.15mil)(2193.15mil,3675.748mil)  Bottom Overlay
+   Violation between Text "R27" (2092.5mil,3433.5mil)  Bottom Overlay and 
+                     Track (2088.819mil,3545.039mil)(2191.181mil,3545.039mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Track (2088.819mil,3545.039mil)(2191.181mil,3545.039mil)  Bottom Overlay
+   Violation between Text "C19" (2151.5mil,3452.5mil)  Bottom Overlay and 
+                     Track (2086.85mil,3463.347mil)(2086.85mil,3675.748mil)  Bottom Overlay
+   Violation between Text "R27" (2092.5mil,3433.5mil)  Bottom Overlay and 
+                     Track (2086.85mil,3463.347mil)(2086.85mil,3675.748mil)  Bottom Overlay
+   Violation between Text "D4" (2091.5mil,3405.5mil)  Bottom Overlay and 
+                     Track (2026.911mil,3418mil)(2139.115mil,3418mil)  Bottom Overlay
+   Violation between Text "D4" (2091.5mil,3405.5mil)  Bottom Overlay and 
+                     Track (2026.887mil,3342mil)(2137.699mil,3342mil)  Bottom Overlay
+   Violation between Text "D4" (2091.5mil,3405.5mil)  Bottom Overlay and 
+                     Track (2157mil,3361.5mil)(2157mil,3398.5mil)  Bottom Overlay
+   Violation between Text "D3" (2190.5mil,3318.5mil)  Bottom Overlay and 
+                     Track (2120mil,3255mil)(2180mil,3255mil)  Bottom Overlay
+   Violation between Text "D4" (2091.5mil,3405.5mil)  Bottom Overlay and 
+                     Track (2120mil,3345mil)(2180mil,3345mil)  Bottom Overlay
+   Violation between Text "D3" (2190.5mil,3318.5mil)  Bottom Overlay and 
+                     Track (2195mil,3270mil)(2195mil,3330mil)  Bottom Overlay
+   Violation between Text "D4" (2091.5mil,3405.5mil)  Bottom Overlay and 
+                     Track (2180mil,3345mil)(2195mil,3330mil)  Bottom Overlay
+   Violation between Text "D3" (2190.5mil,3318.5mil)  Bottom Overlay and 
+                     Track (2180mil,3345mil)(2195mil,3330mil)  Bottom Overlay
+   Violation between Text "D3" (2190.5mil,3318.5mil)  Bottom Overlay and 
+                     Track (2180mil,3255mil)(2195mil,3270mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Track (2231.5mil,3433mil)(2268.5mil,3433mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Track (2231.5mil,3433mil)(2268.5mil,3433mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Track (2212mil,3452.301mil)(2212mil,3563.113mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Track (2212mil,3452.301mil)(2212mil,3563.113mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Track (2288mil,3450.885mil)(2288mil,3563.088mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Track (2231.406mil,3582mil)(2268.5mil,3582mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2321.5mil,3582mil)(2358.5mil,3582mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2378mil,3451.887mil)(2378mil,3562.699mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Track (2302mil,3451.912mil)(2302mil,3564.115mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2321.5mil,3433mil)(2358.594mil,3433mil)  Bottom Overlay
+   Violation between Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay and 
+                     Track (2321.5mil,3433mil)(2358.594mil,3433mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2571.5mil,3433mil)(2608.5mil,3433mil)  Bottom Overlay
+   Violation between Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay and 
+                     Track (2628mil,3450.885mil)(2628mil,3563.088mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2628mil,3450.885mil)(2628mil,3563.088mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2571.406mil,3582mil)(2608.5mil,3582mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Track (2218mil,3356.406mil)(2218mil,3393.5mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Track (2236.912mil,3413mil)(2349.115mil,3413mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Track (2236.912mil,3413mil)(2349.115mil,3413mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Track (2236.887mil,3337mil)(2347.699mil,3337mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Track (2248.15mil,3312.323mil)(2248.15mil,3323.15mil)  Bottom Overlay
+   Violation between Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay and 
+                     Track (2248.347mil,3323.15mil)(2460.748mil,3323.15mil)  Bottom Overlay
+   Violation between Text "C5" (2746.5mil,3533.5mil)  Bottom Overlay and 
+                     Track (2676.85mil,3478.15mil)(2687.677mil,3478.15mil)  Bottom Overlay
+   Violation between Text "R17" (2662.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2676.85mil,3478.15mil)(2687.677mil,3478.15mil)  Bottom Overlay
+   Violation between Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay and 
+                     Track (2676.85mil,3478.15mil)(2687.677mil,3478.15mil)  Bottom Overlay
+   Violation between Text "R17" (2662.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2678.819mil,3560.039mil)(2781.181mil,3560.039mil)  Bottom Overlay
+   Violation between Text "D1" (2755.5mil,3643.5mil)  Bottom Overlay and 
+                     Track (2678.819mil,3560.039mil)(2781.181mil,3560.039mil)  Bottom Overlay
+   Violation between Text "C5" (2746.5mil,3533.5mil)  Bottom Overlay and 
+                     Track (2676.85mil,3478.347mil)(2676.85mil,3690.748mil)  Bottom Overlay
+   Violation between Text "R17" (2662.5mil,3438.5mil)  Bottom Overlay and 
+                     Track (2676.85mil,3478.347mil)(2676.85mil,3690.748mil)  Bottom Overlay
+   Violation between Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay and 
+                     Track (2676.85mil,3478.347mil)(2676.85mil,3690.748mil)  Bottom Overlay
+   Violation between Text "D2" (2681.5mil,3420.5mil)  Bottom Overlay and 
+                     Track (2596.912mil,3418mil)(2709.115mil,3418mil)  Bottom Overlay
+   Violation between Text "D2" (2681.5mil,3420.5mil)  Bottom Overlay and 
+                     Track (2727mil,3361.5mil)(2727mil,3398.5mil)  Bottom Overlay
+   Violation between Text "C29" (3436.5mil,4292.5mil)  Bottom Overlay and 
+                     Track (2975mil,4295mil)(3545mil,4295mil)  Bottom Overlay
+   Violation between Text "S3" (3095.5mil,3620.5mil)  Top Overlay and 
+                     Text "LM317" (3190.5mil,3630.5mil)  Top Overlay
+   Violation between Text "C22" (3202.5mil,3976.5mil)  Top Overlay and 
+                     Text "LM317" (3190.5mil,3630.5mil)  Top Overlay
+   Violation between Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay and 
+                     Text "C9" (3106.5mil,4602.5mil)  Top Overlay
+   Violation between Text "U2-1" (2675.5mil,3585.5mil)  Top Overlay and 
+                     Text "C14" (2766.5mil,3472.5mil)  Top Overlay
+   Violation between Text "U2-2" (2105.5mil,3585.5mil)  Top Overlay and 
+                     Text "C20" (2196.5mil,3462.5mil)  Top Overlay
+   Violation between Text "LED2" (2672.5mil,4477.5mil)  Top Overlay and 
+                     Text "C26" (2927.5mil,4483.5mil)  Top Overlay
+   Violation between Text "LED1" (2672.5mil,4717.5mil)  Top Overlay and 
+                     Text "C30" (2760.5mil,4744.5mil)  Top Overlay
+   Violation between Text "Main_Switch" (2440.5mil,4744.5mil)  Top Overlay and 
+                     Text "C30" (2760.5mil,4744.5mil)  Top Overlay
+   Violation between Text "Main_Switch" (2440.5mil,4744.5mil)  Top Overlay and 
+                     Text "LED1" (2672.5mil,4717.5mil)  Top Overlay
+   Violation between Text "Main_Switch" (2440.5mil,4744.5mil)  Top Overlay and 
+                     Text "lm1117 3.3" (3069.5mil,4351.5mil)  Top Overlay
+   Violation between Text "总开关" (2210.5mil,4744.5mil)  Top Overlay and 
+                     Text "Main_Switch" (2440.5mil,4744.5mil)  Top Overlay
+   Violation between Text "P5" (4778.5mil,3088.5mil)  Top Overlay and 
+                     Text "P4" (4776.5mil,3001.5mil)  Top Overlay
+   Violation between Text "T型头" (2224.5mil,4692.5mil)  Top Overlay and 
+                     Text "Q1" (2215.5mil,4397.5mil)  Top Overlay
+   Violation between Text "U4" (3098.5mil,4143.5mil)  Top Overlay and 
+                     Text "R8" (3101.5mil,4142.5mil)  Top Overlay
+   Violation between Text "R11" (2457.5mil,3648.5mil)  Top Overlay and 
+                     Text "R10" (2327.5mil,3791.5mil)  Top Overlay
+   Violation between Text "U2-1" (2675.5mil,3585.5mil)  Top Overlay and 
+                     Text "R18" (2628.5mil,3532.5mil)  Top Overlay
+   Violation between Text "R21" (1907.5mil,3648.5mil)  Top Overlay and 
+                     Text "R20" (1777.5mil,3791.5mil)  Top Overlay
+   Violation between Text "U2-2" (2105.5mil,3585.5mil)  Top Overlay and 
+                     Text "R28" (2058.5mil,3522.5mil)  Top Overlay
+   Violation between Text "S4" (2926.891mil,3618.043mil)  Top Overlay and 
+                     Text "R29" (2838.933mil,3672.5mil)  Top Overlay
+   Violation between Text "R30" (2838.933mil,3737.5mil)  Top Overlay and 
+                     Text "R29" (2838.933mil,3672.5mil)  Top Overlay
+   Violation between Text "R31" (2838.933mil,3802.5mil)  Top Overlay and 
+                     Text "R30" (2838.933mil,3737.5mil)  Top Overlay
+   Violation between Text "R32" (2838.933mil,3867.5mil)  Top Overlay and 
+                     Text "R31" (2838.933mil,3802.5mil)  Top Overlay
+   Violation between Track (4035mil,4470mil)(5320mil,4470mil)  Top Overlay and 
+                     Text "tps7333" (4535mil,4710mil)  Top Overlay
+   Violation between Text "C39" (3403.5mil,4028.5mil)  Bottom Overlay and 
+                     Text "D11" (3518.5mil,4079.5mil)  Bottom Overlay
+   Violation between Text "D2" (2681.5mil,3420.5mil)  Bottom Overlay and 
+                     Text "C5" (2746.5mil,3533.5mil)  Bottom Overlay
+   Violation between Text "R17" (2662.5mil,3438.5mil)  Bottom Overlay and 
+                     Text "C5" (2746.5mil,3533.5mil)  Bottom Overlay
+   Violation between Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay and 
+                     Text "C5" (2746.5mil,3533.5mil)  Bottom Overlay
+   Violation between Text "C27" (4406.5mil,4486.5mil)  Bottom Overlay and 
+                     Text "C10" (4251.5mil,4486.5mil)  Bottom Overlay
+   Violation between Text "C24" (4166.5mil,4486.5mil)  Bottom Overlay and 
+                     Text "C10" (4251.5mil,4486.5mil)  Bottom Overlay
+   Violation between Text "R17" (2662.5mil,3438.5mil)  Bottom Overlay and 
+                     Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay
+   Violation between Text "R15" (2572.5mil,3438.5mil)  Bottom Overlay and 
+                     Text "C11" (2721.5mil,3452.5mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay
+   Violation between Text "R16" (2322.5mil,3438.5mil)  Bottom Overlay and 
+                     Text "C15" (2361.5mil,3447.5mil)  Bottom Overlay
+   Violation between Text "R14" (2267.5mil,3576.5mil)  Bottom Overlay and 
+                     Text "C16" (2228.5mil,3261.5mil)  Bottom Overlay
+   Violation between Text "R27" (2092.5mil,3433.5mil)  Bottom Overlay and 
+                     Text "C19" (2151.5mil,3452.5mil)  Bottom Overlay
+   Violation between Text "R25" (2002.5mil,3433.5mil)  Bottom Overlay and 
+                     Text "C19" (2151.5mil,3452.5mil)  Bottom Overlay
+   Violation between Text "R26" (1752.5mil,3428.5mil)  Bottom Overlay and 
+                     Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay
+   Violation between Text "R24" (1697.5mil,3566.5mil)  Bottom Overlay and 
+                     Text "C21" (1791.5mil,3442.5mil)  Bottom Overlay
+   Violation between Text "R17" (2662.5mil,3438.5mil)  Bottom Overlay and 
+                     Text "D1" (2755.5mil,3643.5mil)  Bottom Overlay
+   Violation between Text "4" (4740mil,4130mil)  Bottom Overlay and 
+                     Text "2" (4760mil,4130mil)  Bottom Overlay
+   Violation between Text "3" (4740mil,4230mil)  Bottom Overlay and 
+                     Text "1" (4780mil,4230mil)  Bottom Overlay
+Rule Violations :369
+
+Processing Rule : Silk primitive without silk layer
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (6425mil,2225mil)(6425mil,2819.056mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (6153mil,2228.504mil)(6153mil,2819.056mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Track (4740.197mil,4919.724mil)(5389.803mil,4919.724mil)  Bottom Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "U3" (5265.5mil,2230.5mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "C30" (2760.5mil,4744.5mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "Main_Switch" (2440.5mil,4744.5mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "R9" (5476.5mil,2302.5mil)  Top Overlay
+   Violation between Silk To Board Region Clearance (Out of silkscreen region) : Text "总开关" (2210.5mil,4744.5mil)  Top Overlay
+Rule Violations :8
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+
+Violations Detected : 390
+Time Elapsed        : 00:00:03

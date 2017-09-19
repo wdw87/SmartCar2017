@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PTB9 Pin=R1-1
+Change Component Designator: OldDesignator= NewDesignator=tps7333
+Added Component: Designator=C29(0805-0C)
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=5V_SER Pin=C29-2
+Added Pin To Net: NetName=NRF_IRQ Pin=R1-1
+Added Pin To Net: NetName=NRF_IRQ Pin=u0-A19
+Added Member To Class: ClassName=Sheet1 Member=Component C29 Cap
+Added Room: Name=Sheet1

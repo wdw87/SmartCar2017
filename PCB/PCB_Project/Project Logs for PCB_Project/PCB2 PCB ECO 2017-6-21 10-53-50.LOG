@@ -1,0 +1,9 @@
+Added Component: Designator=POW2(sot23-5)
+Added Pin To Net: NetName=5V_BUS Pin=POW2-1
+Added Pin To Net: NetName=GND_MCU_IN Pin=POW2-2
+Added Pin To Net: NetName=5V_BUS Pin=POW2-3
+Added Pin To Net: NetName=NetC72_2 Pin=POW2-4
+Added Pin To Net: NetName=3.3V_BUS Pin=POW2-5
+Added Member To Class: ClassName=Sheet1 Member=Component POW2 MIC-5219
+Added Member To Class: ClassName=Sheet1 Member=Component u0 Component_1
+Added Room: Name=Sheet1

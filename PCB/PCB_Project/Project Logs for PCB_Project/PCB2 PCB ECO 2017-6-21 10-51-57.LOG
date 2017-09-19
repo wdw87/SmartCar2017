@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=3.3V_MCU_IN Pin=C8-1
+Removed Pin From Net: NetName=GND_MCU_IN Pin=C8-2
+Removed Pin From Net: NetName=3.3V_BUS Pin=C9-1
+Removed Pin From Net: NetName=GND_MCU_IN Pin=C9-2
+Removed Pin From Net: NetName=5V_BUS Pin=C23-1
+Removed Pin From Net: NetName=GND_MCU_IN Pin=C23-2
+Removed Pin From Net: NetName=5V_MCU Pin=C24-1
+Removed Pin From Net: NetName=5V_MCU Pin=C25-2
+Removed Pin From Net: NetName=GND_MCU_IN Pin=C26-1
+Removed Pin From Net: NetName=5V_BUS Pin=C26-2
+Removed Pin From Net: NetName=5V_MCU Pin=tps7333-3
+Removed Pin From Net: NetName=5V_MCU Pin=tps7333-4
+Removed Pin From Net: NetName=GND_MCU_IN Pin=U3-1
+Removed Pin From Net: NetName=3.3V_MCU_IN Pin=U3-2
+Removed Member From Class: ClassName=Sheet1 Member=C8
+Removed Member From Class: ClassName=Sheet1 Member=C9
+Removed Member From Class: ClassName=Sheet1 Member=C23
+Removed Member From Class: ClassName=Sheet1 Member=C26
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Change Component Designator: OldDesignator= NewDesignator=Main_Switch
+Change Component Designator: OldDesignator= NewDesignator=T型头
+Change Component Designator: OldDesignator= NewDesignator=总开关
+Added Component: Designator=BT(HDR1X4)
+Added Component: Designator=C61(0603C)
+Added Component: Designator=C71(0603P)
+Added Component: Designator=C72(0603P)
+Added Component: Designator=C73(0603P)
+Added Component: Designator=S7(DIP-8)
+Added Component: Designator=U6(SOP8)
+Added Pin To Net: NetName=5V_MCU Pin=BT-1
+Added Pin To Net: NetName=GND_MCU_IN Pin=BT-2
+Added Pin To Net: NetName=MAIN_7.2 Pin=C24-1
+Added Pin To Net: NetName=MAIN_7.2 Pin=C25-2
+Added Pin To Net: NetName=GND_MCU_IN Pin=C61-1
+Added Pin To Net: NetName=3.3V_MCU_IN Pin=C61-2
+Added Pin To Net: NetName=GND_MCU_IN Pin=C71-1
+Added Pin To Net: NetName=5V_BUS Pin=C71-2
+Added Pin To Net: NetName=GND_MCU_IN Pin=C72-1
+Added Pin To Net: NetName=GND_MCU_IN Pin=C73-1
+Added Pin To Net: NetName=3.3V_BUS Pin=C73-2
+Added Pin To Net: NetName=GND_MCU_IN Pin=S0-9
+Added Pin To Net: NetName=GND_MCU_IN Pin=S7-5
+Added Pin To Net: NetName=GND_MCU_IN Pin=S7-6
+Added Pin To Net: NetName=GND_MCU_IN Pin=S7-7
+Added Pin To Net: NetName=GND_MCU_IN Pin=S7-8
+Added Pin To Net: NetName=MAIN_7.2 Pin=tps7333-3
+Added Pin To Net: NetName=MAIN_7.2 Pin=tps7333-4
+Added Pin To Net: NetName=GND_MCU_IN Pin=U6-1
+Added Pin To Net: NetName=GND_MCU_IN Pin=U6-2
+Added Pin To Net: NetName=GND_MCU_IN Pin=U6-3
+Added Pin To Net: NetName=GND_MCU_IN Pin=U6-4
+Added Pin To Net: NetName=PTB17 Pin=U6-5
+Added Pin To Net: NetName=PTB16 Pin=U6-6
+Added Pin To Net: NetName=GND_MCU_IN Pin=U6-7
+Added Pin To Net: NetName=3.3V_MCU_IN Pin=U6-8
+Added Pin To Net: NetName=NetC72_2 Pin=C72-2
+Added Net: Name=NetC72_2
+Added Pin To Net: NetName=PTA19 Pin=S0-8
+Added Pin To Net: NetName=PTA19 Pin=u0-A19
+Added Net: Name=PTA19
+Added Pin To Net: NetName=PTB20 Pin=S7-1
+Added Pin To Net: NetName=PTB20 Pin=u0-B20
+Added Net: Name=PTB20
+Added Pin To Net: NetName=PTB21 Pin=S7-2
+Added Pin To Net: NetName=PTB21 Pin=u0-B21
+Added Net: Name=PTB21
+Added Pin To Net: NetName=PTB22 Pin=S7-3
+Added Pin To Net: NetName=PTB22 Pin=u0-B22
+Added Net: Name=PTB22
+Added Pin To Net: NetName=PTB23 Pin=S7-4
+Added Pin To Net: NetName=PTB23 Pin=u0-B23
+Added Net: Name=PTB23
+Added Pin To Net: NetName=PTC0 Pin=u0-C0
+Added Net: Name=PTC0
+Added Pin To Net: NetName=PTE24 Pin=BT-4
+Added Net: Name=PTE24
+Added Pin To Net: NetName=PTE25 Pin=BT-3
+Added Net: Name=PTE25
+Added Member To Class: ClassName=Sheet1 Member=Component BT bluetootl
+Added Member To Class: ClassName=Sheet1 Member=Component C61 104
+Added Member To Class: ClassName=Sheet1 Member=Component C71 104
+Added Member To Class: ClassName=Sheet1 Member=Component C72 470p
+Added Member To Class: ClassName=Sheet1 Member=Component C73 105
+Added Member To Class: ClassName=Sheet1 Member=Component Main_Switch 开关
+Added Member To Class: ClassName=Sheet1 Member=Component S7 SW DIP-4
+Added Member To Class: ClassName=Sheet1 Member=Component T型头 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component U6 24C02
+Added Member To Class: ClassName=Sheet1 Member=Component 总开关 *
+Added Room: Name=Sheet1

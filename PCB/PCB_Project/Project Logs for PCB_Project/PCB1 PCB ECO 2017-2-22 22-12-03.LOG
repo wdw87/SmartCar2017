@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R29 Old Footprint=0805-0R New Footprint=0603-r
+Change Component Footprint: Designator=R30 Old Footprint=0805-0R New Footprint=0603-r
+Change Component Footprint: Designator=R31 Old Footprint=0805-0R New Footprint=0603-r
+Change Component Footprint: Designator=R32 Old Footprint=0805-0R New Footprint=0603-r
+Change Component Designator: OldDesignator= NewDesignator=Main_Switch
+Change Component Designator: OldDesignator= NewDesignator=T型头
+Change Component Designator: OldDesignator= NewDesignator=总开关
+Added Member To Class: ClassName=Sheet1 Member=Component T型头 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component 总开关 *
+Added Room: Name=Sheet1
